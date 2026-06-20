@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Dimakatso2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tercia 
+- 👀 I’m interested in IT help desk specialist 
+- 🌱 I’m currently learning how to master the knowledge I gain so far in programming 
+- 💞️ I’m looking to collaborate on The best technology platforms
+- 📫 How to reach me https://www.linkedin.com/in/dimakatso-masubelele-63a4b33a3
+
+
 
 <!---
 Dimakatso2001/Dimakatso2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
